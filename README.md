@@ -1,2 +1,2 @@
 # ComponentesUI
-Esta app en Ionic muestra los diferentes componente UI de Ionic v5
+Esta app en Ionic muestra los diferentes componentes UI de Ionic v5
